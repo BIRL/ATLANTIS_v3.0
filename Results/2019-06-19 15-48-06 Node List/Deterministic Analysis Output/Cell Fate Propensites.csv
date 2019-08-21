@@ -1,0 +1,5 @@
+Cell fate,Propensity,
+Normal Proliferation, 0.73725 
+Metastasis + Abnormal Proliferation, 0.16078 
+Metastasis, 0.062745 
+Metastasis + Normal Proliferation, 0.039216 

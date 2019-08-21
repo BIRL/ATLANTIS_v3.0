@@ -1,0 +1,10 @@
+Cell fate,Propensity,
+EE Fate + Upd Production, 0.3012 
+EE Fate + Upd Production + Normal Proliferation + Extrusion, 0.1663 
+EE Fate + Upd Production + Apoptosis, 0.1629 
+EE Fate + Upd Production + Multilayering  + Normal Proliferation + Loss of Polarity + Extrusion, 0.0848 
+EE Fate + Upd Production + Normal Proliferation + Loss of Polarity + Extrusion, 0.0819 
+EE Fate + Upd Production + Multilayering  + Normal Proliferation + Extrusion, 0.0694 
+EE Fate + Upd Production + Extrusion, 0.0506 
+EE Fate + Upd Production + Multilayering  + Normal Proliferation, 0.0458 
+EE Fate + Upd Production + Delta Production + Apoptosis, 0.0371 

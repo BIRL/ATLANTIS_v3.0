@@ -1,0 +1,35 @@
+,Rho,CyclinD,CyclinE,CyclinA,CyclinB,MMP,E-cad
+Metastasis,2,,,,,1,0
+Normal Proliferation,,2,2,2,2,,
+Abnormal Proliferation,,1,1,1,1,,
+Abnormal Proliferation,,1,1,1,2,,
+Abnormal Proliferation,,1,1,2,1,,
+Abnormal Proliferation,,1,1,2,2,,
+Abnormal Proliferation,,1,2,1,1,,
+Abnormal Proliferation,,1,2,1,2,,
+Abnormal Proliferation,,1,2,2,1,,
+Abnormal Proliferation,,1,2,2,2,,
+Quiescence,,0,,,,,1
+Quiescence,,0,,,,,2
+Quiescence,,,0,,,,1
+Quiescence,,,0,,,,2
+Quiescence,,,,0,,,1
+Quiescence,,,,0,,,2
+Quiescence,,,,,0,,1
+Quiescence,,,,,0,,2
+Quiescence,,0,,,,0,
+Quiescence,,0,,,,2,
+Quiescence,,,0,,,0,
+Quiescence,,,0,,,2,
+Quiescence,,,,0,,0,
+Quiescence,,,,0,,2,
+Quiescence,,,,,0,0,
+Quiescence,,,,,0,2,
+Quiescence,0,0,,,,,
+Quiescence,1,0,,,,,
+Quiescence,0,,0,,,,
+Quiescence,1,,0,,,,
+Quiescence,0,,,0,,,
+Quiescence,1,,,0,,,
+Quiescence,0,,,,0,,
+Quiescence,1,,,,0,,

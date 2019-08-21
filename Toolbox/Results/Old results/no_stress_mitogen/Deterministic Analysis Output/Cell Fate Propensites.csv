@@ -1,0 +1,10 @@
+Cell fate,Propensity,
+Quiescent + Autophagy Low + Mitophagy(L), 0.4572 
+Cell Proliferation (H) + Autophagy Low + Mitophagy(L), 0.1764 
+Autophagy Low + Apoptosis + E.Apoptosis, 0.1731 
+Cell Proliferation + Autophagy Low + Mitophagy(L), 0.1377 
+Quiescent + Autophagy High + Mitophagy(L), 0.0183 
+Autophagy Low + Mitophagy(L), 0.0146 
+Autophagy Low + Apoptosis + Mitophagy(L), 0.0136 
+Autophagy High + Mitophagy(H), 0.0086 
+Cell Proliferation (H) + Autophagy VeryLow, 0.0005 
